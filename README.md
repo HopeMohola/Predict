@@ -48,18 +48,18 @@ By completing this exam, students should be able to:
 - Ensure the database is running and accessible.
 - Use your preferred SQL client (MySQL Workbench).
 
-Usage
+## Usage
 - Open the SQL exam paper (provided as .sql).
 - For theory questions which are multiple choice, write answers in the provided space.
 - For practical questions, execute queries in your SQL environment.
 - Submit both your written answers and SQL scripts/results as instructed.
 
-Contributors
+## Contributors
 1. Hope Mohola
 2. Bonakele Mdletshe
 3. Melokuhle Makhwasa
 4. Thato Mzilikazi
+5. Nombulelo Tracy
 
-License
-
+## License
 This project uses open-source Airbnb data. Content is intended for educational purposes only.
