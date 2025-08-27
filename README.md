@@ -1,5 +1,6 @@
 # SQL Examination – Airbnb Open Data
-##Overview
+## Overview
+
 This project contains an SQL examination designed for students to assess their understanding of both theoretical SQL concepts and practical data analysis skills. The exam uses Airbnb Open Data, allowing students to work with a real-world dataset while demonstrating proficiency in writing SQL queries.
 
 ## Exam Structure
@@ -56,6 +57,8 @@ Usage
 Contributors
 1. Hope Mohola
 2. Bonakele Mdletshe
+3. Melokuhle Makhwasa
+4. Thato Mzilikazi
 
 License
 
